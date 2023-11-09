@@ -1,0 +1,16 @@
+body{
+    /*background-color: rgb(170, 155, 155);*/
+    background-color: gray;
+}
+hr{
+    
+    border-style: dashed none none none;
+    border-color: burlywood;
+    border-width: 7px;
+    width: 40%;
+    /*border-style: dashed;
+    background-color: burlywood;
+    height: 10px;
+    width: 60%;*/
+
+}
