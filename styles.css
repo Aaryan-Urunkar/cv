@@ -17,3 +17,11 @@ hr{
 #CSI_Link{
     color: #FF7F7F;
 }
+#Social_media{
+    /*border-collapse: collapse;*/
+    /*border: 2px solid;*/
+    margin-bottom: 10%;
+}
+.Spacingright{
+    padding-right: 250px;
+}
